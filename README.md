@@ -1,10 +1,10 @@
 # Country Explorer
 
-A Flutter CRUD assignment app built with `flutter_bloc`, `dio`, `sqflite`, and `go_router`.
+A Flutter CRUD assignment app built with `flutter_bloc`, `dio`,  and `go_router`.
 
 ## Description
 
-A simple Flutter app for exploring countries and keeping a travel journal. You can browse through a list of countries, see their details, and save them to your own journal. It handles everything—adding notes about your trips, updating your visit status, and deleting entries you don't need anymore. Everything is saved locally on your phone using SQLite, so you can check your plans even when you're offline.
+A simple Flutter app for exploring countries and keeping a travel journal. You can browse through a list of countries, see their details, and save them to your own journal. It handles everything—adding notes about your trips, updating your visit status, and deleting entries you don't need anymore. 
 
 ## Application Flow (CRUD Operations)
 
