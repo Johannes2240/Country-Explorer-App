@@ -12,7 +12,7 @@ A Flutter CRUD assignment app built with `flutter_bloc`, `dio`,  and `go_router`
 
 ## Description
 
-A simple Flutter app for exploring countries and keeping a travel journal. You can browse through a list of countries, see their details, and save them to your own journal. It handles everything—adding notes about your trips, updating your visit status, and deleting entries you don't need anymore. 
+A simple Flutter app for exploring countries and keeping a travel journal. You can browse through a list of countries, see their details, and save them to your own journal. It handles everything; adding notes about your trips, updating your visit status, and deleting entries you don't need anymore. 
 
 ## Application Flow (CRUD Operations)
 
